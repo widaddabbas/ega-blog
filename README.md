@@ -1,1 +1,1 @@
-# ega-blog
+# ega-blog repo
