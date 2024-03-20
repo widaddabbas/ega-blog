@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Welcome to Morph!"
+---
+
+# Welcome to Morph!
+
+Founded and maintained by Widad Dabbas.
+
+Inspired by the greenest of mathematicians and biologists. 
+
+<br/>
+
+**First order of blogness:** Know what we want to know.
+**Second order of blogness:** Get to know it.
+
+<br/>
+
+Happy -ing!
