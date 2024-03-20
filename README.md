@@ -1,5 +1,9 @@
 # morph blog repo
 
+to build blog use:
+
+ https://dev.to/aleksandrhovhannisyan/creating-a-personal-website-with-jekyll-and-github-pages-a-comprehensive-guide-3fje#where-do-i-put-my-pages-in-jekyll
+
 formerly ega (earth,guts,arrows)
 
 presently morph (ism,ology,ine {the drug of choice for knowledge seekers})
